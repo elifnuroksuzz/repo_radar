@@ -206,8 +206,8 @@ Bu proje [MIT License](LICENSE) ile lisanslanmıştır.
 
 **Elif Nur Öksüz**
 - 🌐 GitHub: [@elifnuroksuzz](https://github.com/elifnuroksuzz)
-- 📧 Email: [İletişim]
-- 💼 LinkedIn: [Profil]
+- 📧 Email: [elifnuroksuz4@gmail.com]
+- 💼 LinkedIn: [(https://www.linkedin.com/in/elifnuroksuz/)]
 
 ## 🙏 Teşekkürler
 
