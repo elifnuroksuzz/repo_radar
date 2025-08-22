@@ -150,13 +150,6 @@ Uygulamada yerleşik tema desteği:
 - 🌙 **Dark Theme**: Gece kullanımı için  
 - 🎨 **Auto Theme**: Sistem temasını takip eder
 
-## 🔍 API Limitleri
-
-| Durum | Saatlik Limit | Günlük Limit |
-|-------|---------------|--------------|
-| Token olmadan | 60 istek | 1,000 istek |
-| Token ile | 5,000 istek | 50,000 istek |
-
 ## 🚧 Gelecek Özellikler
 
 - [ ] 📊 Repository karşılaştırma aracı
