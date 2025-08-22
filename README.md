@@ -231,7 +231,3 @@ Bu proje [MIT License](LICENSE) ile lisanslanmıştır.
 
 ---
 
-<div align="center">
-  <img src="https://via.placeholder.com/100x100/4CAF50/FFFFFF?text=RR" alt="Repo Radar Logo" width="64" height="64">
-  <p><strong>Made with ❤️ by Elif Nur Öksüz</strong></p>
-</div>
