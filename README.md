@@ -3,9 +3,6 @@
 > **GitHub depolarını keşfetmek hiç bu kadar kolay olmamıştı!** 🚀
 
 Repo Radar, GitHub API'sini kullanarak popüler ve trend olan depoları keşfetmenizi, filtrelemenizi ve takip etmenizi sağlayan modern bir web uygulamasıdır. Geliştiriciler için tasarlanan bu araç, yeni projeler keşfetme ve ilham alma sürecinizi kolaylaştırır.
-<img width="1730" height="902" alt="image" src="https://github.com/user-attachments/assets/b9da7d7c-6cad-4eb1-8e0c-0e0d98e293da" />
-<img width="1359" height="694" alt="image" src="https://github.com/user-attachments/assets/7f8b98a2-5f90-4136-a918-518afbb5892b" />
-<img width="1608" height="786" alt="image" src="https://github.com/user-attachments/assets/8a671b16-ef2f-4988-abf5-6d64bd6a7050" />
 
 ## ✨ Özellikler
 
@@ -69,22 +66,9 @@ Repo Radar, GitHub API'sini kullanarak popüler ve trend olan depoları keşfetm
 
 ## 🎨 Ekran Görüntüleri
 
-```
-┌─────────────────────────────────────────┐
-│  🔍 Repo Radar                         │
-│  ┌─────────────────┐  [🔥 Trend] [⭐]   │
-│  │ Arama...       │                    │
-│  └─────────────────┘                    │
-│                                         │
-│  📦 awesome-project      ⭐ 15.2k       │
-│  JavaScript • MIT License               │
-│  └─ 🍴 2.1k    👥 45    📅 2 days ago   │
-│                                         │
-│  📦 cool-framework       ⭐ 8.7k        │
-│  Python • Apache-2.0                   │
-│  └─ 🍴 1.3k    👥 23    📅 1 week ago   │
-└─────────────────────────────────────────┘
-```
+<img width="1730" height="902" alt="image" src="https://github.com/user-attachments/assets/b9da7d7c-6cad-4eb1-8e0c-0e0d98e293da" />
+<img width="1359" height="694" alt="image" src="https://github.com/user-attachments/assets/7f8b98a2-5f90-4136-a918-518afbb5892b" />
+<img width="1608" height="786" alt="image" src="https://github.com/user-attachments/assets/8a671b16-ef2f-4988-abf5-6d64bd6a7050" />
 
 ## 🛡️ Teknolojiler
 
